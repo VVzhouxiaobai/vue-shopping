@@ -11,11 +11,7 @@ npm install
 # serve with hot reload at localhost:8080
 npm run dev
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+##在线浏览地址 https://vvzhouxiaobai.github.io/vue-shopping/dist/index.html 然后点击官方配件
+此小demo主要是模仿锤子手机官网通过vuex完成了商品列表展示，商品种类展示，查看商品详情，加入购物车，购物车列表展示，购物清单，商品结算，我的订单等模块
